@@ -17,7 +17,7 @@ Tools: Git,GitHub, Visual Studio,VS code
 - Android Studio
 
 **Projects**
-- ZORK Re Illustrated trilogy Group project
+- ZORK Re-Illustrated Trilogy Group Project
 
 **Goals**
 - Build modern, user-friendly web applications.
