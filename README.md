@@ -1,6 +1,4 @@
 ## Hi I'm Muna 👋
-
-<!-- 
 **munirawuzgd/munirawuzgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Second year Software Engineering student at the University of Waikato, New Zealand.
 Im passionate about software development and enjoy building applications while continously learning by the day.
