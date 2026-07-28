@@ -1,6 +1,6 @@
 ## Hi I'm Muna 👋
-**munirawuzgd/munirawuzgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Second year Software Engineering student at the University of Waikato, New Zealand.
+
+Im a Second year Software Engineering student at the University of Waikato, New Zealand.
 Im passionate about software development and enjoy building applications while continously learning by the day.
 
 **Teck Stack**
@@ -19,7 +19,7 @@ Tools: Git,GitHub, Visual Studio,VS code
 **Projects**
 - ZORK Re Illustrated trilogy Group project
 
-Goals
+**Goals**
 - Build modern, user-friendly web applications.
 - Strengthen my full-stack development skills.
 - Gain industry experience through internships.
